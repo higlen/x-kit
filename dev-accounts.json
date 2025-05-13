@@ -221,5 +221,844 @@
     "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么",
     "tags": [ "金融投资", "市场分析" ],
     "id": "1597654998971604992"
+  },  {
+    "username": "符尧",
+    "twitter_url": "https://x.com/francis_yao_",
+    "description": "符尧博士，目前在DeepMind，做长文本、多模态、交互式推理。",
+    "tags": [ "DeepMind", "研究员", "长文本", "多模态", "交互式推理" ]
+  },
+  {
+    "username": "Sam Altman",
+    "twitter_url": "https://x.com/sama",
+    "description": "OpenAI 创始人，Y Combinator 前总裁",
+    "tags": [ "OpenAI", "创始人", "Y Combinator", "前总裁" ]
+  },
+  {
+    "username": "Yann LeCun",
+    "twitter_url": "https://x.com/ylecun",
+    "description": "纽约大学教授，Meta 首席 AI 科学家",
+    "tags": [ "纽约大学", "教授", "Meta", "首席AI科学家" ]
+  },
+  {
+    "username": "Andrew Ng",
+    "twitter_url": "https://x.com/AndrewYNg",
+    "description": "Coursera 联合创始人，斯坦福大学计算机科学兼职教授，前百度 AI 事业部/Google Brain 负责人",
+    "tags": [ "Coursera", "联合创始人", "斯坦福大学", "教授", "百度", "Google Brain", "前负责人" ]
+  },
+  {
+    "username": "François Chollet",
+    "twitter_url": "https://x.com/fchollet",
+    "description": "谷歌深度学习工程师，Keras 创始人，《Python 深度学习》作者",
+    "tags": [ "谷歌", "工程师", "Keras", "创始人", "作者" ]
+  },
+  {
+    "username": "Karen Hao 郝珂灵",
+    "twitter_url": "https://x.com/_KarenHao",
+    "description": "《华尔街日报》AI 记者，国家杂志奖得主",
+    "tags": [ "华尔街日报", "记者", "AI记者", "获奖者" ]
+  },
+  {
+    "username": "Andrej Karpathy",
+    "twitter_url": "https://x.com/karpathy",
+    "description": "YouTuber，博主，KOL，前特斯拉和 OpenAI 的 AI 总监",
+    "tags": [ "YouTuber", "博主", "KOL", "特斯拉", "OpenAI", "前AI总监" ]
+  },
+  {
+    "username": "Jürgen Schmidhuber",
+    "twitter_url": "https://x.com/SchmidhuberAI",
+    "description": "达勒莫尔人工智能研究所联合主任，被誉为“现代 AI 之父”和“深度学习之父”",
+    "tags": [ "研究员", "主任", "AI之父", "深度学习之父" ]
+  },
+  {
+    "username": "Sara Hooker",
+    "twitter_url": "https://x.com/sarahookr",
+    "description": "Cohere AI 负责人，前谷歌大脑研究员",
+    "tags": [ "Cohere AI", "负责人", "谷歌大脑", "前研究员" ]
+  },
+  {
+    "username": "Demis Hassabis",
+    "twitter_url": "https://x.com/demishassabis",
+    "description": "DeepMind 和 Isomorphic Labs 创始人兼首席执行官",
+    "tags": [ "DeepMind", "Isomorphic Labs", "创始人", "CEO" ]
+  },
+  {
+    "username": "Sarah Guo",
+    "twitter_url": "https://x.com/saranormous",
+    "description": "Conviction A.I. 创始人，初创企业投资人，前 Greylock 合伙人",
+    "tags": [ "Conviction A.I.", "创始人", "投资人", "Greylock", "前合伙人" ]
+  },
+  {
+    "username": "David Ha",
+    "twitter_url": "https://x.com/hardmaru",
+    "description": "Stability AI 提示工程负责人，前谷歌大脑研究科学家",
+    "tags": [ "Stability AI", "提示工程", "负责人", "谷歌大脑", "前研究科学家" ]
+  },
+  {
+    "username": "Lilian Weng",
+    "twitter_url": "https://x.com/lilianweng",
+    "description": "OpenAI 应用 AI 负责人",
+    "tags": [ "OpenAI", "应用AI", "负责人" ]
+  },
+  {
+    "username": "Oriol Vinyals",
+    "twitter_url": "https://x.com/OriolVinyalsML",
+    "description": "DeepMind 研究总监和深度学习负责人，领导了 AlphaStar、AlphaFold、AlphaCode、WaveNet、seq2seq 等项目，前谷歌大脑研究科学家",
+    "tags": [ "DeepMind", "研究总监", "深度学习", "负责人", "AlphaStar", "AlphaFold", "AlphaCode", "WaveNet", "seq2seq", "谷歌大脑", "前研究科学家" ]
+  },
+  {
+    "username": "Michael Black",
+    "twitter_url": "https://x.com/Michael_J_Black",
+    "description": "马克斯·普朗克智能系统研究所主任，Meshcapade 首席科学家",
+    "tags": [ "马克斯·普朗克研究所", "主任", "Meshcapade", "首席科学家" ]
+  },
+  {
+    "username": "Jeff Dean",
+    "twitter_url": "https://x.com/JeffDean",
+    "description": "谷歌研究和 AI 高级研究员兼高级副总裁，TensorFlow、MapReduce、Bigtable、Spanner 等系统的设计者/实现者",
+    "tags": [ "谷歌", "研究员", "高级副总裁", "TensorFlow", "MapReduce", "Bigtable", "Spanner", "系统设计" ]
+  },
+  {
+    "username": "Ian Goodfellow",
+    "twitter_url": "https://x.com/goodfellow_ian",
+    "description": "DeepMind 研究科学家，GAN 的发明者，《深度学习》主要作者",
+    "tags": [ "DeepMind", "研究科学家", "GAN发明者", "作者" ]
+  },
+  {
+    "username": "Aakanksha Chowdhery",
+    "twitter_url": "https://x.com/achowdhery",
+    "description": "谷歌大脑 PaLM 负责人",
+    "tags": [ "谷歌大脑", "PaLM", "负责人" ]
+  },
+  {
+    "username": "Peter H. Diamandis, MD",
+    "twitter_url": "https://x.com/PeterDiamandis",
+    "description": "奇点大学、X 奖、Fountain Life 创始人，企业家、投资者和作者",
+    "tags": [ "奇点大学", "X奖", "Fountain Life", "创始人", "企业家", "投资者", "作者" ]
+  },
+  {
+    "username": "Gary Marcus",
+    "twitter_url": "https://x.com/GaryMarcus",
+    "description": "《Rebooting.AI》和《Guitar Zero》作者，Geometric Intelligence（被 Uber 收购）和 RobustAI 创始人",
+    "tags": [ "作者", "Geometric Intelligence", "RobustAI", "创始人" ]
+  },
+  {
+    "username": "Lucas Beyer",
+    "twitter_url": "https://x.com/giffmana",
+    "description": "谷歌大脑苏黎世研究员",
+    "tags": [ "谷歌大脑", "研究员" ]
+  },
+  {
+    "username": "Sebastian Raschka",
+    "twitter_url": "https://x.com/rasbt",
+    "description": "《Ahead of AI》作者，机器学习和 AI 研究员",
+    "tags": [ "作者", "机器学习", "AI研究员" ]
+  },
+  {
+    "username": "Cassie Kozyrkov",
+    "twitter_url": "https://x.com/quaesita",
+    "description": "谷歌首席决策科学家",
+    "tags": [ "谷歌", "首席决策科学家" ]
+  },
+  {
+    "username": "Kate Kaye",
+    "twitter_url": "https://x.com/KateKayeReports",
+    "description": "独立记者，前 Protocol 记者",
+    "tags": [ "记者", "独立记者", "前Protocol记者" ]
+  },
+  {
+    "username": "Emad",
+    "twitter_url": "https://x.com/EMostaque",
+    "description": "Stability AI 创始人",
+    "tags": [ "Stability AI", "创始人" ]
+  },
+  {
+    "username": "李飞飞",
+    "twitter_url": "https://x.com/drfeifei",
+    "description": "斯坦福人类中心人工智能研究院联合主任，AI4ALL 组织联合创始人兼主席",
+    "tags": [ "斯坦福大学", "教授", "研究员", "AI4ALL", "联合创始人", "主席", "主任" ]
+  },
+  {
+    "username": "Jim Fan",
+    "twitter_url": "https://x.com/DrJimFan",
+    "description": "NVIDIA AI 科学家",
+    "tags": [ "NVIDIA", "AI科学家" ]
+  },
+  {
+    "username": "Elvis Saravia",
+    "twitter_url": "https://x.com/omarsar0",
+    "description": "DAIR.AI 创建者，前 Meta AI 和 Elastic 科学家",
+    "tags": [ "DAIR.AI", "创建者", "Meta AI", "Elastic", "前科学家" ]
+  },
+  {
+    "username": "Connie Chan",
+    "twitter_url": "https://x.com/conniechan",
+    "description": "Andreessen Horowitz（a16z）普通合伙人",
+    "tags": [ "a16z", "投资人", "合伙人" ]
+  },
+  {
+    "username": "Hugo Larochelle",
+    "twitter_url": "https://x.com/hugo_larochelle",
+    "description": "谷歌大脑研究员，机器学习教授，前 Twitter Cortex 成员",
+    "tags": [ "谷歌大脑", "研究员", "教授", "机器学习", "前Twitter成员" ]
+  },
+  {
+    "username": "Benj Edwards",
+    "twitter_url": "https://x.com/benjedwards",
+    "description": "《Ars Technica》AI 和机器学习记者，技术历史学家",
+    "tags": [ "Ars Technica", "记者", "AI记者", "机器学习记者", "技术历史学家" ]
+  },
+  {
+    "username": "Becca Szkutak",
+    "twitter_url": "https://x.com/rebecca_szkutak",
+    "description": "TechCrunch 记者",
+    "tags": [ "TechCrunch", "记者" ]
+  },
+  {
+    "username": "Sergey Levine",
+    "twitter_url": "https://x.com/svlevine",
+    "description": "加州大学伯克利分校教授",
+    "tags": [ "加州大学伯克利分校", "教授" ]
+  },
+  {
+    "username": "Eric Schmidt",
+    "twitter_url": "https://x.com/ericschmidt",
+    "description": "谷歌前首席执行官",
+    "tags": [ "谷歌", "前CEO" ]
+  },
+  {
+    "username": "Ilya Sutskever",
+    "twitter_url": "https://x.com/ilyasut",
+    "description": "OpenAI 通用人工智能研究员",
+    "tags": [ "OpenAI", "通用人工智能", "研究员" ]
+  },
+  {
+    "username": "Patrick Mineault",
+    "twitter_url": "https://x.com/patrickmineault",
+    "description": "前 Building 8 成员，前谷歌工程师",
+    "tags": [ "前Building 8成员", "前谷歌工程师" ]
+  },
+  {
+    "username": "Natasha Jaques",
+    "twitter_url": "https://x.com/natashajaques",
+    "description": "谷歌 AI 和伯克利 AI 资深研究科学家",
+    "tags": [ "谷歌 AI", "伯克利 AI", "研究科学家" ]
+  },
+  {
+    "username": "Pieter Abbeel",
+    "twitter_url": "https://x.com/pabbeel",
+    "description": "伯克利教授，Covariant 和 Gradescope 创始人，《The Robot Brains》播客主持人，AIX Ventures 投资合伙人",
+    "tags": [ "伯克利", "教授", "Covariant", "Gradescope", "创始人", "播客主持人", "AIX Ventures", "投资人" ]
+  },
+  {
+    "username": "Eliezer Yudkowsky",
+    "twitter_url": "https://x.com/ESYudkowsky",
+    "description": "机器智能研究所联合创始人",
+    "tags": [ "机器智能研究所", "联合创始人" ]
+  },
+  {
+    "username": "Geoffrey Hinton",
+    "twitter_url": "https://x.com/geoffreyhinton",
+    "description": "多伦多大学教授，Vector Institute 联合创始人兼首席科学顾问",
+    "tags": [ "多伦多大学", "教授", "Vector Institute", "联合创始人", "首席科学顾问", "深度学习之父" ]
+  },
+  {
+    "username": "Brett Winton",
+    "twitter_url": "https://x.com/wintonARK",
+    "description": "Ark Invest 首席未来学家",
+    "tags": [ "Ark Invest", "首席未来学家" ]
+  },
+  {
+    "username": "Jeff Clune",
+    "twitter_url": "https://x.com/jeffclune",
+    "description": "不列颠哥伦比亚大学副教授，Vector Institute 教员",
+    "tags": [ "不列颠哥伦比亚大学", "教授", "Vector Institute", "教员" ]
+  },
+  {
+    "username": "Sridhar Ramaswamy",
+    "twitter_url": "https://x.com/RamaswmySridhar",
+    "description": "Neeva 和 NXYZ Data 联合创始人，Greylock 风投合伙人，前谷歌高级副总裁",
+    "tags": [ "Neeva", "NXYZ Data", "联合创始人", "Greylock", "投资人", "合伙人", "前谷歌SVP" ]
+  },
+  {
+    "username": "Ben Tossell",
+    "twitter_url": "https://x.com/bentossell",
+    "description": "《Ben's Bites》作者",
+    "tags": [ "作者", "Newsletter" ]
+  },
+  {
+    "username": "John Schulman",
+    "twitter_url": "https://x.com/johnschulman2",
+    "description": "OpenAI 联合创始人",
+    "tags": [ "OpenAI", "联合创始人" ]
+  },
+  {
+    "username": "Ahsen Khaliq",
+    "twitter_url": "https://x.com/_akhaliq",
+    "description": "AK's Substack 作者，Gradio 创始人（被 Hugging Face 收购）",
+    "tags": [ "作者", "Substack", "Gradio", "创始人", "Hugging Face" ]
+  },
+  {
+    "username": "Quoc Le",
+    "twitter_url": "https://x.com/quocleix",
+    "description": "谷歌大脑首席科学家",
+    "tags": [ "谷歌大脑", "首席科学家" ]
+  },
+  {
+    "username": "Jack Clark",
+    "twitter_url": "https://x.com/jackclarkSF",
+    "description": "Anthropic AI 创始人，Indexing AI 联席主席，前 OpenAI 成员",
+    "tags": [ "Anthropic AI", "创始人", "Indexing AI", "联席主席", "前OpenAI成员" ]
+  },
+  {
+    "username": "merve",
+    "twitter_url": "https://x.com/mervenoyann",
+    "description": "Hugging Face 的 Merve Noyan",
+    "tags": [ "Hugging Face" ]
+  },
+  {
+    "username": "David Holz",
+    "twitter_url": "https://x.com/DavidSHolz",
+    "description": "Midjourney 和 Leap Motion 创始人，曾在 NASA 和马克斯·普朗克研究所工作",
+    "tags": [ "Midjourney", "Leap Motion", "创始人", "NASA", "马克斯·普朗克研究所" ]
+  },
+  {
+    "username": "Nathan Lambert",
+    "twitter_url": "https://x.com/natolambert",
+    "description": "Hugging Face 机器学习科学家，推动自动化普及",
+    "tags": [ "Hugging Face", "机器学习科学家", "自动化" ]
+  },
+  {
+    "username": "Richard Socher",
+    "twitter_url": "https://x.com/RichardSocher",
+    "description": "You.com 首席执行官",
+    "tags": [ "You.com", "CEO" ]
+  },
+  {
+    "username": "Mustafa Suleyman",
+    "twitter_url": "https://x.com/mustafasuleyman",
+    "description": "Inflection AI 联合创始人兼首席执行官，DeepMind 联合创始人，Greylock 风投合伙人，前谷歌 AI 副总裁",
+    "tags": [ "Inflection AI", "联合创始人", "CEO", "DeepMind", "Greylock", "投资人", "合伙人", "前谷歌VP" ]
+  },
+  {
+    "username": "Zoubin Ghahramani",
+    "twitter_url": "https://x.com/ZoubinGhahrama1",
+    "description": "谷歌大脑研究副总裁，剑桥大学教授",
+    "tags": [ "谷歌大脑", "研究副总裁", "剑桥大学", "教授" ]
+  },
+  {
+    "username": "Nathan Benaich",
+    "twitter_url": "https://x.com/nathanbenaich",
+    "description": "《AI 指南》作者",
+    "tags": [ "作者", "AI指南" ]
+  },
+  {
+    "username": "John McDonnell",
+    "twitter_url": "https://x.com/johnvmcdonnell",
+    "description": "前 Stitch Fix、Square、Gureckis 实验室成员",
+    "tags": [ "前Stitch Fix成员", "前Square成员", "前Gureckis实验室成员" ]
+  },
+  {
+    "username": "Bojan Tunguz",
+    "twitter_url": "https://x.com/tunguz",
+    "description": "NVIDIA 机器学习高级系统软件工程师",
+    "tags": [ "NVIDIA", "机器学习", "软件工程师" ]
+  },
+  {
+    "username": "Ben Goertzel",
+    "twitter_url": "https://x.com/bengoertzel",
+    "description": "SingularityNET 首席执行官",
+    "tags": [ "SingularityNET", "CEO" ]
+  },
+  {
+    "username": "Chris Olah",
+    "twitter_url": "https://x.com/ch402",
+    "description": "Anthropic AI 创始人，前 OpenAI Clarity 团队、谷歌大脑和 Distill Pub 成员",
+    "tags": [ "Anthropic AI", "创始人", "前OpenAI成员", "前谷歌大脑成员", "Distill Pub" ]
+  },
+  {
+    "username": "Ksenia Se",
+    "twitter_url": "https://x.com/Kseniase_",
+    "description": "《TheSequence》作者",
+    "tags": [ "作者", "TheSequence" ]
+  },
+  {
+    "username": "Paul Graham",
+    "twitter_url": "https://x.com/paulg",
+    "description": "风险投资家",
+    "tags": [ "投资人", "风险投资", "Y Combinator" ]
+  },
+  {
+    "username": "Russ Salakhutdinov",
+    "twitter_url": "https://x.com/rsalakhu",
+    "description": "前苹果 AI 负责人",
+    "tags": [ "前苹果AI负责人" ]
+  },
+  {
+    "username": "Greg Brockman",
+    "twitter_url": "https://x.com/gdb",
+    "description": "OpenAI 总裁兼联合创始人",
+    "tags": [ "OpenAI", "总裁", "联合创始人" ]
+  },
+  {
+    "username": "Vivek Natarajan",
+    "twitter_url": "https://x.com/vivnat",
+    "description": "谷歌 AI 医疗 AI 研究员，前 Meta AI 研究员",
+    "tags": [ "谷歌 AI", "医疗AI", "研究员", "前Meta AI研究员" ]
+  },
+  {
+    "username": "Brian X. Chen",
+    "twitter_url": "https://x.com/bxchen",
+    "description": "《纽约时报》记者",
+    "tags": [ "纽约时报", "记者" ]
+  },
+  {
+    "username": "Anima Anandkumar",
+    "twitter_url": "https://x.com/AnimaAnandkumar",
+    "description": "加州理工学院教授，NVIDIA AI 研究高级总监，前 AWS 云首席科学家",
+    "tags": [ "加州理工学院", "教授", "NVIDIA", "AI研究总监", "前AWS首席科学家" ]
+  },
+  {
+    "username": "Jeffrey Towson 陶迅",
+    "twitter_url": "https://x.com/JeffreyTowson",
+    "description": "咨询顾问",
+    "tags": [ "咨询顾问", "教授" ]
+  },
+  {
+    "username": "Thomas Wolf",
+    "twitter_url": "https://x.com/Thom_Wolf",
+    "description": "Hugging Face 联合创始人",
+    "tags": [ "Hugging Face", "联合创始人" ]
+  },
+  {
+    "username": "John Platt",
+    "twitter_url": "https://x.com/johnplattml",
+    "description": "谷歌 AI 应用科学总监",
+    "tags": [ "谷歌 AI", "应用科学总监" ]
+  },
+  {
+    "username": "Samanyou Garg",
+    "twitter_url": "https://x.com/SamanyouGarg",
+    "description": "Writesonic 创始人兼首席执行官",
+    "tags": [ "Writesonic", "创始人", "CEO" ]
+  },
+  {
+    "username": "Kirk Borne",
+    "twitter_url": "https://x.com/KirkDBorne",
+    "description": "DataPrime 数据科学家",
+    "tags": [ "DataPrime", "数据科学家" ]
+  },
+  {
+    "username": "Alberto Romero",
+    "twitter_url": "https://x.com/Alber_RomGar",
+    "description": "《The Algorithmic Bridge》作者，CambrianAI 分析师",
+    "tags": [ "作者", "Newsletter", "CambrianAI", "分析师" ]
+  },
+  {
+    "username": "Matthew Hutson",
+    "twitter_url": "https://x.com/SilverJacket",
+    "description": "AI 自由记者",
+    "tags": [ "记者", "AI记者", "自由职业者" ]
+  },
+  {
+    "username": "Tim Scarfe",
+    "twitter_url": "https://x.com/ecsquendor",
+    "description": "机器学习 YouTuber",
+    "tags": [ "机器学习", "YouTuber" ]
+  },
+  {
+    "username": "Jordan Burgess",
+    "twitter_url": "https://x.com/jordnb",
+    "description": "Humanloop 联合创始人",
+    "tags": [ "Humanloop", "联合创始人" ]
+  },
+  {
+    "username": "David Luan",
+    "twitter_url": "https://x.com/jluan",
+    "description": "Adept AI 创始人",
+    "tags": [ "Adept AI", "创始人" ]
+  },
+  {
+    "username": "Connor Leahy",
+    "twitter_url": "https://x.com/NPCollapse",
+    "description": "Conjecture 和 EleutherAI 创始人",
+    "tags": [ "Conjecture", "EleutherAI", "创始人" ]
+  },
+  {
+    "username": "Naveen Rao",
+    "twitter_url": "https://x.com/NaveenGRao",
+    "description": "MosaicML 联合创始人兼首席执行官，前 Nervana/Intel AI 成员",
+    "tags": [ "MosaicML", "联合创始人", "CEO", "前Nervana成员", "前Intel AI成员" ]
+  },
+  {
+    "username": "Azeem Azhar",
+    "twitter_url": "https://x.com/azeem",
+    "description": "《Exponential View》作者",
+    "tags": [ "作者", "Exponential View", "Newsletter" ]
+  },
+  {
+    "username": "Suhail Doshi",
+    "twitter_url": "https://x.com/Suhail",
+    "description": "Playground AI 和 Mixpanel 创始人",
+    "tags": [ "Playground AI", "Mixpanel", "创始人" ]
+  },
+  {
+    "username": "Max Jaderberg",
+    "twitter_url": "https://x.com/maxjaderberg",
+    "description": "Isomorphic Labs 机器学习总监，前 DeepMind 研究科学家，Vision Factory 联合创始人（被谷歌收购）",
+    "tags": [ "Isomorphic Labs", "机器学习总监", "前DeepMind研究科学家", "Vision Factory", "联合创始人" ]
+  },
+  {
+    "username": "Kyle Wiggers",
+    "twitter_url": "https://x.com/Kyle_L_Wiggers",
+    "description": "TechCrunch AI 记者",
+    "tags": [ "TechCrunch", "记者", "AI记者" ]
+  },
+  {
+    "username": "许巍",
+    "twitter_url": "https://x.com/cocoweixu",
+    "description": "佐治亚理工学院计算机科学助理教授",
+    "tags": [ "佐治亚理工学院", "教授", "计算机科学" ]
+  },
+  {
+    "username": "Aidan Gomez",
+    "twitter_url": "https://x.com/aidangomezzz",
+    "description": "Cohere 联合创始人兼首席执行官",
+    "tags": [ "Cohere", "联合创始人", "CEO" ]
+  },
+  {
+    "username": "Alexandr Wang",
+    "twitter_url": "https://x.com/alexandr_wang",
+    "description": "Scale AI 创始人",
+    "tags": [ "Scale AI", "创始人", "CEO" ]
+  },
+  {
+    "username": "熊采东",
+    "twitter_url": "https://x.com/CaimingXiong",
+    "description": "Salesforce AI 副总裁",
+    "tags": [ "Salesforce", "AI", "副总裁" ]
+  },
+  {
+    "username": "马毅",
+    "twitter_url": "https://x.com/YiMaTweets",
+    "description": "加州大学伯克利分校和香港大学 IDS 教授",
+    "tags": [ "加州大学伯克利分校", "香港大学", "教授", "IDS" ]
+  },
+  {
+    "username": "Misha Denil",
+    "twitter_url": "https://x.com/notmisha",
+    "description": "DeepMind 研究科学家",
+    "tags": [ "DeepMind", "研究科学家" ]
+  },
+  {
+    "username": "Peter Lee",
+    "twitter_url": "https://x.com/peteratmsr",
+    "description": "微软研究院企业副总裁",
+    "tags": [ "微软研究院", "副总裁" ]
+  },
+  {
+    "username": "Shivon Zilis",
+    "twitter_url": "https://x.com/shivon",
+    "description": "Neuralink 运营和特殊项目总监",
+    "tags": [ "Neuralink", "总监", "运营" ]
+  },
+  {
+    "username": "Jacky Liang",
+    "twitter_url": "https://x.com/jackyliang42",
+    "description": "卡内基梅隆大学博士生，《Last Week in AI》作者",
+    "tags": [ "卡内基梅隆大学", "博士生", "作者", "Newsletter" ]
+  },
+  {
+    "username": "Vin Vashishta",
+    "twitter_url": "https://x.com/v_vashishta",
+    "description": "高投资回报率数据科学专家",
+    "tags": [ "数据科学", "专家" ]
+  },
+  {
+    "username": "黄学东",
+    "twitter_url": "https://x.com/xdh",
+    "description": "微软技术院士，Azure AI",
+    "tags": [ "微软", "技术院士", "Azure AI" ]
+  },
+  {
+    "username": "Hannah Fry",
+    "twitter_url": "https://x.com/FryRsquared",
+    "description": "科技作家",
+    "tags": [ "作家", "科技" ]
+  },
+  {
+    "username": "Ravi Mhatre",
+    "twitter_url": "https://x.com/ravi_lsvp",
+    "description": "Lightspeed Ventures 创始人",
+    "tags": [ "Lightspeed Ventures", "创始人", "投资人" ]
+  },
+  {
+    "username": "Clem Delangue",
+    "twitter_url": "https://x.com/ClementDelangue",
+    "description": "Hugging Face 联合创始人兼首席执行官，Moodstocks 创始人（被谷歌收购）",
+    "tags": [ "Hugging Face", "联合创始人", "CEO", "Moodstocks", "创始人" ]
+  },
+  {
+    "username": "Hattie Zhou",
+    "twitter_url": "https://x.com/oh_that_hat",
+    "description": "蒙特利尔大学和 Mila 研究所博士生",
+    "tags": [ "蒙特利尔大学", "Mila", "博士生" ]
+  },
+  {
+    "username": "Sapna Maheshwari",
+    "twitter_url": "https://x.com/sapna",
+    "description": "《纽约时报》记者",
+    "tags": [ "纽约时报", "记者" ]
+  },
+  {
+    "username": "Vidhi Lalchand",
+    "twitter_url": "https://x.com/VRLalchand",
+    "description": "剑桥大学机器学习博士生",
+    "tags": [ "剑桥大学", "机器学习", "博士生" ]
+  },
+  {
+    "username": "Santiago L Valdarrama",
+    "twitter_url": "https://x.com/svpino",
+    "description": "机器学习自由职业者和技术作家",
+    "tags": [ "机器学习", "自由职业者", "技术作家" ]
+  },
+  {
+    "username": "Vincent Boucher",
+    "twitter_url": "https://x.com/ceobillionaire",
+    "description": "蒙特利尔 AI 总裁",
+    "tags": [ "蒙特利尔 AI", "总裁" ]
+  },
+  {
+    "username": "Yannic Kilcher",
+    "twitter_url": "https://x.com/ykilcher",
+    "description": "YouTube 内容创作者",
+    "tags": [ "YouTuber", "内容创作者" ]
+  },
+  {
+    "username": "Matt Bornstein",
+    "twitter_url": "https://x.com/BornsteinMatt",
+    "description": "a16z 合伙人",
+    "tags": [ "a16z", "投资人", "合伙人" ]
+  },
+  {
+    "username": "Lachy Groom",
+    "twitter_url": "https://x.com/lachygroom",
+    "description": "天使投资人，BleedingEdge 创始人，前 Stripe 成员",
+    "tags": [ "投资人", "天使投资人", "BleedingEdge", "创始人", "前Stripe成员" ]
+  },
+  {
+    "username": "Riley Goodside",
+    "twitter_url": "https://x.com/goodside",
+    "description": "Scale AI 首席科学家，前 OkCupid 和 Grindr 数据科学家",
+    "tags": [ "Scale AI", "首席科学家", "前OkCupid数据科学家", "前Grindr数据科学家" ]
+  },
+  {
+    "username": "Amjad Masad",
+    "twitter_url": "https://x.com/amasad",
+    "description": "Replit 首席执行官兼工程负责人",
+    "tags": [ "Replit", "CEO", "工程负责人" ]
+  },
+  {
+    "username": "Noam Brown",
+    "twitter_url": "https://x.com/polynoamial",
+    "description": "Meta AI 研究科学家，共同创建了 Libratus/Pluribus（首个超越人类的无限德州扑克 AI）和 CICERO",
+    "tags": [ "Meta AI", "研究科学家", "Libratus", "Pluribus", "CICERO", "游戏AI" ]
+  },
+  {
+    "username": "Shital Shah",
+    "twitter_url": "https://x.com/sytelus",
+    "description": "机器智能、深度学习和神经架构专家",
+    "tags": [ "机器智能", "深度学习", "神经架构", "专家" ]
+  },
+  {
+    "username": "汗青 HQ",
+    "twitter_url": "https://x.com/hq4ai",
+    "description": "专注于AIGC和艺术创作的内容创作者，分享AI绘画和生成艺术作品，运营AI Talk频道",
+    "tags": [ "AIGC", "AI艺术", "内容创作者", "AI绘画" ]
+  },  
+  {
+    "username": "OpenAI",
+    "twitter_url": "https://x.com/OpenAI",
+    "description": "OpenAI官方账号，分享公司最新研究、产品发布和AI进展",
+    "tags": [ "AI研究组织", "ChatGPT", "GPT", "DALL-E" ]
+  },
+  {
+    "username": "Google DeepMind",
+    "twitter_url": "https://x.com/GoogleDeepMind",
+    "description": "谷歌旗下AI研究实验室官方账号，专注于人工智能研究和应用",
+    "tags": [ "AI研究组织", "AlphaFold", "AlphaGo", "Gemini" ]
+  },
+  {
+    "username": "Google AI Developers",
+    "twitter_url": "https://x.com/googleaidevs",
+    "description": "谷歌旗下AI开发者账号",
+    "tags": [ "AI研究组织", "Developers", "AlphaGo", "Gemini" ]
+  },
+  {
+    "username": "Anthropic",
+    "twitter_url": "https://x.com/AnthropicAI",
+    "description": "Anthropic官方账号，Claude AI助手背后的公司",
+    "tags": [ "AI研究组织", "Claude", "AI安全", "AI助手" ]
+  },
+  {
+    "username": "Hugging Face",
+    "twitter_url": "https://x.com/huggingface",
+    "description": "开源AI社区平台官方账号，提供模型、数据集和协作工具",
+    "tags": [ "开源AI", "模型库", "Transformers", "AI社区" ]
+  },
+  {
+    "username": "NVIDIA AI",
+    "twitter_url": "https://x.com/NVIDIAAI",
+    "description": "NVIDIA AI官方账号，分享AI硬件、软件和研究进展",
+    "tags": [ "AI硬件", "GPU", "AI软件", "深度学习" ]
+  },
+  {
+    "username": "Meta AI",
+    "twitter_url": "https://x.com/AIatMeta",
+    "description": "Meta AI研究实验室官方账号，分享公司AI研究和开源项目",
+    "tags": [ "AI研究组织", "开源AI", "LLaMA", "AI研究" ]
+  },
+  {
+    "username": "Microsoft AI",
+    "twitter_url": "https://x.com/MSFTResearch",
+    "description": "微软AI研究部门官方账号，分享公司AI研究和产品进展",
+    "tags": [ "AI研究组织", "Copilot", "Azure AI", "研究" ]
+  },
+  {
+    "username": "Stability AI",
+    "twitter_url": "https://x.com/StabilityAI",
+    "description": "Stability AI官方账号，Stable Diffusion背后的公司",
+    "tags": [ "AI生成模型", "Stable Diffusion", "开源AI", "图像生成" ]
+  },
+  {
+    "username": "Midjourney",
+    "twitter_url": "https://x.com/midjourney",
+    "description": "Midjourney官方账号，AI图像生成服务",
+    "tags": [ "AI生成模型", "图像生成", "创意工具" ]
+  },
+  {
+    "username": "AI2",
+    "twitter_url": "https://x.com/allen_ai",
+    "description": "艾伦人工智能研究所官方账号，非营利AI研究组织",
+    "tags": [ "AI研究组织", "非营利", "NLP", "计算机视觉" ]
+  },
+  {
+    "username": "Partnership on AI",
+    "twitter_url": "https://x.com/PartnershipAI",
+    "description": "AI合作伙伴关系组织官方账号，关注AI的社会影响和负责任发展",
+    "tags": [ "AI伦理", "AI政策", "负责任AI", "非营利组织" ]
+  },
+  {
+    "username": "MIT CSAIL",
+    "twitter_url": "https://x.com/MIT_CSAIL",
+    "description": "麻省理工学院计算机科学与人工智能实验室官方账号",
+    "tags": [ "研究机构", "学术", "AI研究", "计算机科学" ]
+  },
+  {
+    "username": "Stanford HAI",
+    "twitter_url": "https://x.com/StanfordHAI",
+    "description": "斯坦福人类中心人工智能研究院官方账号",
+    "tags": [ "研究机构", "学术", "人类中心AI", "AI伦理" ]
+  },
+  {
+    "username": "Adept AI",
+    "twitter_url": "https://x.com/AdeptAILabs",
+    "description": "Adept AI官方账号，专注于构建通用智能系统",
+    "tags": [ "AI研究组织", "行动模型", "智能助手" ]
+  },
+  {
+    "username": "Runway",
+    "twitter_url": "https://x.com/runwayml",
+    "description": "Runway官方账号，提供AI创意工具和生成模型",
+    "tags": [ "AI创意工具", "视频生成", "图像生成", "Gen-2" ]
+  },
+  {
+    "username": "Inflection AI",
+    "twitter_url": "https://x.com/inflectionai",
+    "description": "Inflection AI官方账号，Pi助手背后的公司",
+    "tags": [ "AI助手", "Pi", "个人AI" ]
+  },
+  {
+    "username": "Character.AI",
+    "twitter_url": "https://x.com/character_ai",
+    "description": "Character.AI官方账号，AI角色对话平台",
+    "tags": [ "AI角色", "对话AI", "娱乐AI" ]
+  },
+  {
+    "username": "Perplexity AI",
+    "twitter_url": "https://x.com/perplexity_ai",
+    "description": "Perplexity AI官方账号，AI搜索引擎",
+    "tags": [ "AI搜索", "信息检索", "问答系统" ]
+  },
+  {
+    "username": "Mistral AI",
+    "twitter_url": "https://x.com/MistralAI",
+    "description": "Mistral AI官方账号，开源语言模型提供商",
+    "tags": [ "开源AI", "语言模型", "Mixtral", "Le Chat" ]
+  },
+  {
+    "username": "Together AI",
+    "twitter_url": "https://x.com/togethercompute",
+    "description": "Together AI官方账号，提供开源模型托管和训练平台",
+    "tags": [ "开源AI", "模型托管", "AI基础设施" ]
+  },
+  {
+    "username": "Databricks",
+    "twitter_url": "https://x.com/Databricks",
+    "description": "Databricks官方账号，数据和AI平台提供商",
+    "tags": [ "数据平台", "AI平台", "企业AI", "MLflow" ]
+  },
+  {
+    "username": "EleutherAI",
+    "twitter_url": "https://x.com/AiEleuther",
+    "description": "EleutherAI官方账号，致力于开源AI研究的非营利组织",
+    "tags": [ "开源AI", "非营利组织", "语言模型", "AI研究" ]
+  },
+  {
+    "username": "Qwen",
+    "twitter_url": "https://x.com/Alibaba_Qwen",
+    "description": "阿里云通义千问大模型官方账号，分享模型更新和应用进展",
+    "tags": [ "国产大模型", "阿里云", "通义千问", "开源模型" ]
+  },
+  {
+    "username": "DeepSeek",
+    "twitter_url": "https://x.com/deepseek_ai",
+    "description": "深度求索 DeepSeek 官方账号，专注于通用人工智能研究",
+    "tags": [ "国产大模型", "开源模型", "DeepSeek-Coder", "DeepSeek-LLM" ]
+  },
+  {
+    "username": "MiniMax",
+    "twitter_url": "https://x.com/MiniMax__AI",
+    "description": "MiniMax官方账号，提供大语言模型API和应用",
+    "tags": [ "国产大模型", "API服务", "应用开发" ]
+  },
+  {
+    "username": "海螺AI",
+    "twitter_url": "https://x.com/Hailuo_AI",
+    "description": "MiniMax旗下的AI视频生成应用",
+    "tags": [ "国产大模型", "AIGC", "视频生成" ]
+  },
+  {
+    "username": "01.AI",
+    "twitter_url": "https://x.com/01AI_Yi",
+    "description": "零一万物官方账号，Yi大模型开发团队",
+    "tags": [ "国产大模型", "开源模型", "Yi", "李开复" ]
+  },
+  {
+    "username": "Kimi AI",
+    "twitter_url": "https://x.com/Kimi_Moonshot",
+    "description": "Moonshot AI官方账号，Kimi大模型开发团队",
+    "tags": [ "国产大模型", "Kimi", "AI助手" ]
+  },
+  {
+    "username": "可灵AI",
+    "twitter_url": "https://x.com/Kling_ai",
+    "description": "快手旗下，可灵AI视频生成平台",
+    "tags": [ "国产大模型", "AIGC", "视频生成" ]
+  },
+  {
+    "username": "DeepLearning.AI",
+    "twitter_url": "https://x.com/DeepLearningAI",
+    "description": "由Andrew Ng创立的AI教育科技公司，致力于发展和连接全球AI社区，提供各种AI课程和学习资源",
+    "tags": [ "AI教育", "在线课程", "Andrew Ng", "社区" ]
   }
 ]
