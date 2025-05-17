@@ -1872,5 +1872,37 @@
       "Andrew Ng",
       "社区"
     ]
-  }
+  },
+  {
+    "username": "zhangtianliang",
+    "twitter_url": "https://x.com/zhangtianliang",
+    "description": "awesome_twitter_CN作者，软件工程师，喜欢分享有趣和好玩的内容，分享思考的idea",
+    "tags": [
+      "软件工程师",
+      "内容分享"
+    ]
+  },
+  {
+    "username": "wenzhaocomment",
+    "twitter_url": "https://x.com/wenzhaocomment",
+    "description": "创业公司CEO，B站20W粉丝视频博主，内容涉及商业创业等领域",
+    "tags": [
+      "创业者",
+      "CEO",
+      "视频博主",
+      "AI出海"
+    ]
+  },
+  {
+    "username": "CZ 🔶 BNB",
+    "twitter_url": "https://x.com/cz_binance",
+    "description": "Binance首席经济学家，前美联储经济学家，前耶鲁教授",
+    "tags": [ "经济学家", "Binance" ]
+  },
+  {
+    "username":"Yi He",
+    "twitter_url":"https://x.com/heyibinance",
+    "description":"AI产品经理，前微软产品经理，前微软AI团队负责人",
+    "tags":["AI产品经理","微软"]
+  }  
 ]
